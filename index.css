@@ -37,7 +37,7 @@ nav{
 	font-weight:bold;
 }
 
-h2{
+h2 {
   font-family: 'Inconsolata', monospace;
   color:white;
   padding:0px;
@@ -46,6 +46,14 @@ h2{
 
 
 
-h3{
+h3 {
+  font-family: 'Raleway', sans-serif;
+}
+
+dd {
+  font-family: 'Raleway', sans-serif;
+}
+
+dt {
   font-family: 'Raleway', sans-serif;
 }
