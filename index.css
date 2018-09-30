@@ -1,6 +1,9 @@
 body{
 	 padding:0px;
   margin:0px;
+	background-image:url(bill y ted.jpeg);
+  		background-size:cover;
+ 		background-repeat: no-repeat;
 }
 
 a{
