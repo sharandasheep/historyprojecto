@@ -1,0 +1,51 @@
+body{
+  margin:0px;
+  padding:0px;
+  background-image:url(bill y ted.jpeg);
+  background-size:cover;
+  background-repeat: no-repeat;
+}
+
+a{
+  padding:10px;
+  text-decoration:none;
+  font-family: 'Raleway', sans-serif;
+  color:white;
+  font-size:20px;
+}
+nav{
+ background-color: #172438;
+  padding:20px;
+}
+
+.content{
+     margin-top: 550px;
+    margin-bottom: 0px;
+    margin-left: 0;
+    margin-right: 0;
+    padding:30px;
+    background-color: #172438;
+    height:100%;
+}
+
+#text-style{
+  font-family:'Raleway', sans-serif;
+  color:white;
+}
+
+.selected{
+	font-weight:bold;
+}
+
+h2{
+  font-family: 'Inconsolata', monospace;
+  color:white;
+  padding:0px;
+  margin:0px;
+}
+
+
+
+h3{
+  font-family: 'Raleway', sans-serif;
+}
