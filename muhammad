@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Muhammad Ali Jinnah</title>
+	<link rel="stylesheet" type="text/css" href="/historyprojecto/index.css">
+	<link href="https://fonts.googleapis.com/css?family=Inconsolata|Raleway" rel="stylesheet">
+	
+	<style>
+		body {
+		margin: 0px;
+		padding: 0px;
+			background-image:url("bill y ted.jpeg");
+  		background-size:cover;
+ 		background-repeat: no-repeat;
+		}
+		hr {
+		color: white;	
+		}
+		
+		.selected {
+	font-weight:bold;
+}
+h2 {
+  font-family: 'Inconsolata', monospace;
+  color:white;
+  padding:0px;
+  margin:0px;
+}
+h3 {
+  font-family: 'Raleway', sans-serif;
+  color:white;
+}
+dd {
+  font-family: 'Raleway', sans-serif;
+  color:white;
+}
+dt {
+  font-family: 'Raleway', sans-serif;
+  color:white;
+}
+hr {
+color:white;	
+}
+.videoWrapper {
+	position: relative;
+	padding-bottom: 56.25%; /* 16:9 */
+	padding-top: 25px;
+	height: 0;
+}
+.videoWrapper iframe {
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100%;
+}
+.bontent {
+text-align: right;	
+}
+p {
+font-family: 'Raleway', sans-serif;
+  color:white;
+}
+	</style>
+</head>
+<body>
+<nav>
+	<a href="index.html">Home</a>
+	<a href="/historyprojecto/mao.html">Mao Zedong</a>
+  <a href="/historyprojecto/mandela.html">Nelson Mandela</a>
+  <a class="selected" href="/historyprojecto/muhammad.html">Muhammad Ali Jinnah</a>
+	<a href="/historyprojecto/references.html">References</a>
+</nav>
+	<div class="videoWrapper">
+	<iframe width="1280" height="720" src="https://www.powtoon.com/embed/cDZHzLdGi3m/" frameborder="0"></iframe>
+	</div>
+	<div class="content">
+		<h2>Muhammad Ali Jinnah</h2>
+		<hr></hr>
+		<h3>Biography</h3>
+		<p>Muhammad Ali Jinnah was born in 1876</p>
+		<h3>How They Would View the World Today and Why</h3>
+		<p></p>
+		<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Jinnah1945c.jpg/220px-Jinnah1945c.jpg" alt="Muhammad Ali Jinnah" class="bontent" width="300" height="250" style="margin:auto; display:block;"></img>
+		
+	</div>
+</body>
+</html>
